@@ -12,7 +12,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/dhowden/tag"
+	"github.com/redlex-spb/tag"
 )
 
 func main() {
